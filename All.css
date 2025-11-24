@@ -1,0 +1,36 @@
+tr{
+    width:800px;
+    height:250px;
+
+}
+h2{
+  color:maroon;
+  font-size:30px;
+}
+p{
+    float:right;
+    font-size:20px;
+    color:brown;
+}
+.book-btn {
+  background-color: #2564eb; /* soft royal blue */
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(37, 99, 235, 0.3);
+}
+
+.book-btn:hover {
+  background-color: #1e40af; /* darker blue */
+  transform: scale(1.05);
+  box-shadow: 0 6px 15px rgba(30, 64, 175, 0.4);
+}
+
+.book-btn:active {
+  transform: scale(0.97);
+}
