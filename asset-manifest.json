@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travel-react-app/static/css/main.c1a01a5f.css",
-    "main.js": "/travel-react-app/static/js/main.78c88f97.js",
+    "main.js": "/travel-react-app/static/js/main.bafccff6.js",
     "static/js/453.86894b98.chunk.js": "/travel-react-app/static/js/453.86894b98.chunk.js",
     "static/media/t1.jpg": "/travel-react-app/static/media/t1.359ffc959bd232d7e795.jpg",
     "static/media/southkorea.jpg": "/travel-react-app/static/media/southkorea.68ae4bc06b2f16b7c441.jpg",
@@ -26,11 +26,11 @@
     "static/media/ss3.jpg": "/travel-react-app/static/media/ss3.a84cefdaabc2ff84b7a3.jpg",
     "index.html": "/travel-react-app/index.html",
     "main.c1a01a5f.css.map": "/travel-react-app/static/css/main.c1a01a5f.css.map",
-    "main.78c88f97.js.map": "/travel-react-app/static/js/main.78c88f97.js.map",
+    "main.bafccff6.js.map": "/travel-react-app/static/js/main.bafccff6.js.map",
     "453.86894b98.chunk.js.map": "/travel-react-app/static/js/453.86894b98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1a01a5f.css",
-    "static/js/main.78c88f97.js"
+    "static/js/main.bafccff6.js"
   ]
 }
