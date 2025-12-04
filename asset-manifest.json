@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/travel-react-app/static/css/main.c1a01a5f.css",
+    "main.js": "/travel-react-app/static/js/main.78c88f97.js",
+    "static/js/453.86894b98.chunk.js": "/travel-react-app/static/js/453.86894b98.chunk.js",
+    "static/media/t1.jpg": "/travel-react-app/static/media/t1.359ffc959bd232d7e795.jpg",
+    "static/media/southkorea.jpg": "/travel-react-app/static/media/southkorea.68ae4bc06b2f16b7c441.jpg",
+    "static/media/ss2.jpg": "/travel-react-app/static/media/ss2.f955973dc9176ce1f1ef.jpg",
+    "static/media/j3.jpg": "/travel-react-app/static/media/j3.311a4ca2a21bd8800ec8.jpg",
+    "static/media/j2.jpg": "/travel-react-app/static/media/j2.970c224a539713a295f1.jpg",
+    "static/media/j1.jpg": "/travel-react-app/static/media/j1.95329e2f936723931590.jpg",
+    "static/media/Singapore.jpg": "/travel-react-app/static/media/Singapore.2f0e5c410ce56195dd0e.jpg",
+    "static/media/m2.jpg": "/travel-react-app/static/media/m2.01362a7fd79fba76d578.jpg",
+    "static/media/Thaii.jpg": "/travel-react-app/static/media/Thaii.d0450d37faced20820e2.jpg",
+    "static/media/ss1.jpg": "/travel-react-app/static/media/ss1.de223e4cafaba5c53744.jpg",
+    "static/media/paris.jpg": "/travel-react-app/static/media/paris.e2ffcfd075fe6abb39f5.jpg",
+    "static/media/japan1.jpg": "/travel-react-app/static/media/japan1.ef6bd86e3f9722c58a20.jpg",
+    "static/media/s3.jpg": "/travel-react-app/static/media/s3.31b80b4a5e8f20efa256.jpg",
+    "static/media/s1.jpg": "/travel-react-app/static/media/s1.78d93b4c1aef88266012.jpg",
+    "static/media/malaysia.jpg": "/travel-react-app/static/media/malaysia.1efed49df8470802e373.jpg",
+    "static/media/t3.jpg": "/travel-react-app/static/media/t3.e1457a3d612c522867d7.jpg",
+    "static/media/t2.jpg": "/travel-react-app/static/media/t2.a14273b83b5e8520fdeb.jpg",
+    "static/media/p11.jpg": "/travel-react-app/static/media/p11.95201eaa10b3de5f7ea2.jpg",
+    "static/media/p3.jpg": "/travel-react-app/static/media/p3.355291b1968a0fddf68c.jpg",
+    "static/media/m3.jpg": "/travel-react-app/static/media/m3.5232ce191fc55d4a4272.jpg",
+    "static/media/ss3.jpg": "/travel-react-app/static/media/ss3.a84cefdaabc2ff84b7a3.jpg",
+    "index.html": "/travel-react-app/index.html",
+    "main.c1a01a5f.css.map": "/travel-react-app/static/css/main.c1a01a5f.css.map",
+    "main.78c88f97.js.map": "/travel-react-app/static/js/main.78c88f97.js.map",
+    "453.86894b98.chunk.js.map": "/travel-react-app/static/js/453.86894b98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a01a5f.css",
+    "static/js/main.78c88f97.js"
+  ]
+}
